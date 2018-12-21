@@ -1,2 +1,7 @@
 # Source-Code
-This code was not made by me but it inspired me to make a new algorithm for the stars in my modular flag.
+Tiffany Lee, period 2, AP computer scince, 12/19/18
+This code includes:
+The drawing of scars
+Color change
+Positional code
+Please focus on how the coder coded their stars from a ploynomial.
